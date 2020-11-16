@@ -1,0 +1,6 @@
+C:\Learning\AdapterDesignPattern\AdapterDesignPattern\Program.cs;C:\Learning\AdapterDesignPattern\.klocwork\AdapterDesignPattern\cs.kwlp\ds\1\lyfbrqnx.sch;1;0;False;2701246F88E0E9D1052E08A40CA93A436D64B712;False
+C:\Learning\AdapterDesignPattern\AdapterDesignPattern\Properties\AssemblyInfo.cs;;2;0;False;38584B374EA39CE83DF90C626E95D544BE5F6E5A;False
+C:\Learning\AdapterDesignPattern\AdapterDesignPattern\Employee.cs;C:\Learning\AdapterDesignPattern\.klocwork\AdapterDesignPattern\cs.kwlp\ds\3\b1ojovi4.kxz;3;0;False;0F2218B2B93794F55102153371ED48735EAFCBD6;False
+C:\Learning\AdapterDesignPattern\AdapterDesignPattern\ThirdPartyBillingSystem.cs;C:\Learning\AdapterDesignPattern\.klocwork\AdapterDesignPattern\cs.kwlp\ds\4\jmirtjap.dpc;4;0;False;AD8A89D6E8BF19195BC664A8487D79E66F533A8C;False
+C:\Learning\AdapterDesignPattern\AdapterDesignPattern\ITarget.cs;C:\Learning\AdapterDesignPattern\.klocwork\AdapterDesignPattern\cs.kwlp\ds\5\i5knkn5b.cph;5;0;False;2F9F779C810C8AE78D2C85FEFAE3278E2BA166EA;False
+C:\Learning\AdapterDesignPattern\AdapterDesignPattern\EmployeeAdapter.cs;C:\Learning\AdapterDesignPattern\.klocwork\AdapterDesignPattern\cs.kwlp\ds\6\azmvyazx.0b4;6;0;False;4824BDF5773C151122E9F8D91AF613349178ECB1;False
